@@ -18,7 +18,8 @@ Other stacks:
 - CSS;
 - Bootstrap;
 - MVC Pattern Design;
-- Agile methodologies (scrum).
+- Agile methodologies (scrum);
+- Git and GitHub.
 
 My soft skills:
 
