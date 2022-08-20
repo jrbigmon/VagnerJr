@@ -17,6 +17,7 @@ Other stacks:
 - HTML5;
 - CSS;
 - Bootstrap;
+- React.js;
 - MVC Pattern Design;
 - Agile methodologies (scrum);
 - Git and GitHub.
