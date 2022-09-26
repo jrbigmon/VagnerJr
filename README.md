@@ -36,6 +36,4 @@ My soft skills:
 
 Thank you very much for visiting my profile and that I can contribute even more with your knowledge and growth.
 
-![(https://github.com/jrbigmon)](https://github-readme-stats.vercel.app/api?username=jrbigmon&show_icons=true&theme=dark)
-
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/vagner-siqueira-junior-27197b135/)
