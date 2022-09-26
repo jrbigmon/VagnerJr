@@ -8,15 +8,16 @@ I recently graduated in technology in industrial automation, currently I am stud
 My technical skills:
 
 Programming language:
-- JavaScript (Node.js), C and C++.
+- JavaScript, TypeScript, C and C++.
 
 Other stacks:
-- Sequelize;
-- MySQL;
+- Sequelize and Prisma;
+- MySQL, SQLite, Postgres...;
 - EJS (Embedded JavaScript templating);
 - HTML5;
 - CSS;
 - Bootstrap;
+- Tailwindcss;
 - React.js;
 - MVC Pattern Design;
 - Agile methodologies (scrum);
